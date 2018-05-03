@@ -1,0 +1,378 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ch",
+				"checked-out"
+			],
+			[
+				"Find",
+				"findOnePT"
+			],
+			[
+				"re",
+				"repository"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "eureka.client/pom.xml",
+			"settings":
+			{
+				"buffer_size": 997,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pom.xml",
+			"settings":
+			{
+				"buffer_size": 3207,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "eureka.client/src/main/java/org/richardliao/microservice/eureka/ServiceHiApplication.java",
+			"settings":
+			{
+				"buffer_size": 881,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+			"mvn -v",
+			"cmd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.client",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.client/src",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.client/src/main",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.client/src/main/java",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.client/src/main/java/org",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.client/src/main/java/org/richardliao",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.client/src/main/java/org/richardliao/microservice",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.client/src/main/java/org/richardliao/microservice/eureka",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.client/src/main/resources",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.server",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.server/src",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.server/src/main",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.server/src/main/java",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.server/src/main/java/org",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.server/src/main/java/org/richardliao",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.server/src/main/java/org/richardliao/microservice",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.server/src/main/java/org/richardliao/microservice/eureka",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.server/src/main/resources",
+		"/C/D_Disk/myDoc/MavenProject/Zuul",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.book.practice",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.book.practice/src",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.book.practice/src/main",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.book.practice/src/main/java",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.book.practice/src/main/java/org",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.book.practice/src/main/java/org/richardliao",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.book.practice/src/main/java/org/richardliao/zuul",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.book.practice/src/main/java/org/richardliao/zuul/book"
+	],
+	"file_history":
+	[
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.client/src/main/resources/application.yml",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/eureka.server/src/main/java/org/richardliao/microservice/eureka/EurekaServerApplication.java",
+		"/C/D_Disk/myDoc/MavenProject/myMicroservice/pom.xml",
+		"/C/D_Disk/myDoc/MavenProject/eureka.server/pom.xml",
+		"/C/D_Disk/myDoc/MavenProject/pom.xml",
+		"/C/D_Disk/myDoc/myknowledge02knl",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.gateway.practice/src/main/resources/application.yml",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.computer.practice/src/main/resources/application.yml",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.book.practice/src/main/resources/application.yml",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.computer.practice/pom.xml",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.computer.practice/src/main/java/org/richardliao/zuul/computer/ComputerApplication.java",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.computer.practice/src/main/java/org/richardliao/zuul/book/ComputerApplication.java",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.gateway.practice/src/main/resources/application.properties",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.book.practice/src/main/resources/application.properties",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.book.practice/src/main/java/org/richardliao/zuul/book/BookApplication.java",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.gateway.practice/pom.xml",
+		"/C/D_Disk/myHuaweiFile/DailyTasks.tak",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/pom.xml",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.gateway.practice/src/main/java/org/richardliao/zuul/gateway/GatewayApplication.java",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.gateway.practice/src/main/java/org/richardliao/zuul/gateway/filters/pre/SimpleFilter.java",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.book.practice/pom.xml",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.book.practice/src/main/java/org/richardliao/zuul/book/App.java",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.gateway.practice/src/main/java/org/richardliao/zuul/gateway/App.java",
+		"/C/D_Disk/myDoc/MavenProject/Zuul/zuul.book.practice/src/main/java/org/richardliao/zuul/gateway/App.java",
+		"/C/D_Disk/myDoc/MavenProject/MongoDB/springboot.mongodb.practice/pom.xml",
+		"/C/D_Disk/myDoc/MavenProject/helloworld/src/main/resources/application.properties",
+		"/C/D_Disk/myDoc/MavenProject/Eureka/eureka.client.practice.sentence/src/main/java/org/richardliao/eurekaclient/controller/Controller.java",
+		"/C/D_Disk/myDoc/MavenProject/MongoDB/springboot.mongodb.practice/src/main/java/org/richardliao/springboot/mongodb/App.java",
+		"/C/D_Disk/myDoc/MavenProject/MongoDB/springboot.mongodb.practice/src/main/resources/application.yml",
+		"/C/D_Disk/myDoc/MavenProject/MongoDB/springboot.mongodb.practice/src/main/java/org/richardliao/springboot/mongodb/CustomerRepository.java",
+		"/C/D_Disk/myDoc/MavenProject/MongoDB/springboot.mongodb.practice/src/main/java/org/richardliao/springboot/mongodb/custom/CustomerRepositoryCustom.java",
+		"/C/D_Disk/myDoc/MavenProject/MongoDB/springboot.mongodb.practice/src/main/java/org/richardliao/springboot/mongodb/impl/CustomerRepositoryImpl.java",
+		"/C/D_Disk/myDoc/MavenProject/SpringCloudConfig/springcloud.config.client/src/main/resources/bootstrap.yml",
+		"/C/D_Disk/myDoc/MavenProject/SpringCloudConfig/springcloud.config.client/src/main/java/org/richardliao/springboot/actuator/App.java",
+		"/C/D_Disk/myDoc/MavenProject/SpringCloudConfig/springcloud.config.client/pom.xml",
+		"/C/D_Disk/myDoc/MavenProject/SpringCloudConfig/springcloud.config.client/src/main/java/org/richardliao/springboot/actuator/controller/HelloWorldController.java",
+		"/C/D_Disk/myDoc/MavenProject/SpringCloudConfig/springcloud.config/src/main/resources/application.yml",
+		"/C/D_Disk/myDoc/MavenProject/SpringCloudConfig/springcloud.config.client/src/main/resources/application.yml",
+		"/C/D_Disk/myDoc/MavenProject/springcloud.config/pom.xml",
+		"/C/D_Disk/myDoc/MavenProject/springcloud.config/src/main/java/org/richardliao/springboot/actuator/App.java",
+		"/C/D_Disk/myDoc/MavenProject/springcloud.config/src/main/resources/application.yml",
+		"/C/D_Disk/myDoc/MavenProject/springcloud.config/src/main/resources/application.properties",
+		"/C/D_Disk/myDoc/MavenProject/SpringBoot/springboot.practice/src/main/java/org/richardliao/springboot/MvcConfig.java",
+		"/C/D_Disk/myDoc/MavenProject/SpringBoot/springboot.practice/src/main/java/org/richardliao/springboot/WebSecurityConfig.java",
+		"/C/D_Disk/myDoc/2018_02_27/apache-maven-3.5.2/conf/settings.xml",
+		"/C/D_Disk/myDoc/MavenProject/Eureka/eureka.client.practice/Eureka_Client_Subject.bat",
+		"/C/D_Disk/myDoc/MavenProject/Eureka/eureka.client.practice.acticle/Eureka_Client_Article.bat",
+		"/C/D_Disk/myDoc/MavenProject/Eureka/eureka.client.practice.adjective/Eureka_Client_Adjective.bat",
+		"/C/D_Disk/myDoc/MavenProject/Eureka/eureka.client.practice.noun/Eureka_Client_Noun.bat",
+		"/C/D_Disk/myDoc/MavenProject/Eureka/eureka.client.practice.sentence/Eureka_Client_Sentence.bat",
+		"/C/D_Disk/myDoc/MavenProject/Eureka/eureka.client.practice.verb/Eureka_Client_Verb.bat",
+		"/C/D_Disk/myDoc/MavenProject/Eureka/eureka.practice/Eureka_Server.bat",
+		"/C/D_Disk/myDoc/MavenProject/Eureka/eureka.feign.client.practice/Eureka_Feign_Client.bat",
+		"/C/D_Disk/myDoc/myknowledge.knl"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "eureka.client/pom.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 997,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								664,
+								664
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pom.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								726,
+								726
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "eureka.client/src/main/java/org/richardliao/microservice/eureka/ServiceHiApplication.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 881,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								693,
+								693
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mymicroservice.sublime-project",
+	"replace":
+	{
+		"height": 55.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 344.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
