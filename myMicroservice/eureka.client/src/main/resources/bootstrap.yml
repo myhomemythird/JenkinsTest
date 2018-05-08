@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: service-hi
+  cloud:
+    config:
+      label: master
+      profile: dev
+      discovery:
+        enabled: true
+        serviceId: config-server
+server:
+  port: 8762
