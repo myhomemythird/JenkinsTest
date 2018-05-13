@@ -23,6 +23,9 @@ public class ServiceHiApplication {
 
     @Value("${server.port}")
     String port;
+
+    @Value("${config.version}")
+    String version;
     
     @Autowired
     private RestTemplate restTemplate;
@@ -34,7 +37,7 @@ public class ServiceHiApplication {
     
     @RequestMapping("/hi")
     public String home(@RequestParam String name) {
-        return "hi "+name+",i am from port:" +port;
+        return "hi "+name+",i am from port:" + port + " and version:" + version;
     }
     
     @RequestMapping("/hi-trace")
